@@ -1,5 +1,5 @@
 # Ninja-Alley-Game
-2D Game, 2 Player fighting game. Made with Unity. The player who kills another player wins.  
+2D Game, 2 Player fighting game. Made with Unity. The player who defeats another player wins.  
 
 ## How to Play
 [Play in browser on itch.io](https://wasuphon-chaosahnguan.itch.io/ninja-alley)  
